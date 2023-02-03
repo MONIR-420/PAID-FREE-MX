@@ -1,8 +1,9 @@
-import os
+import MONIR
+Paid.import
 
- print("Update Checking") 
- os.system("git pull")
 
-import Paid
 
- Paid.login()
+
+
+
+
