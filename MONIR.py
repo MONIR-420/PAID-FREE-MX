@@ -1,6 +1,6 @@
 import os
 
- print("Update Checking") 
+ print("Updete Checking") 
  os.system("git pull")
 
 import Paid
