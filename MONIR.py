@@ -1,5 +1,5 @@
 import MONIR
-import.Paid
+import Paid
 
 
 
